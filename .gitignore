@@ -20,3 +20,8 @@ __pycache__/
 # Fichiers système macOS
 .DS_Store
 .idea/
+.idea/
+.venv/
+private_key.pem
+.venv/
+private_key.pem
