@@ -1,4 +1,21 @@
+# Clés privées et fichiers sensibles
 private_key.pem
+*.pem
+
+# Environnement virtuel
 .venv/
+venv/
+env/
+
+# Fichiers Python compilés
 __pycache__/
+*.pyc
+*.pyo
+
+# Fichiers spécifiques à l'IDE
+.idea/
+.vscode/
+*.iml
+
+# Fichiers système macOS
 .DS_Store
